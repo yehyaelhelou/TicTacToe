@@ -8,6 +8,8 @@
 
 import UIKit
 
+//Test comment
+
 class ViewController: UIViewController
 {
     enum Turn {
